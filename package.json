@@ -1,4 +1,27 @@
 {
+  "name": "ai-chat",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/loganmelby-cell/ai-chat#readme",
+  "bugs": {
+    "url": "https://github.com/loganmelby-cell/ai-chat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganmelby-cell/ai-chat.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "ai-chat.js",
+  "scripts": {
+ "dev": "vite",
+ "start": "vite",
+ "build": "vite build",
+ "preview": "vite preview",
+ "test": "echo \"Error: no test specified\" && exit 1"
+},
+
   "dependencies": {
     "@huggingface/inference": "^4.13.5"
   },
