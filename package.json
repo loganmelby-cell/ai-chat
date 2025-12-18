@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@huggingface/inference": "^4.13.5"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
